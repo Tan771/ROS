@@ -1,0 +1,8 @@
+prefix=/home/tanmay/catkin_ws/install
+
+Name: beginner_tutorials_tan
+Description: Description of beginner_tutorials_tan
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lbeginner_tutorials_tan
+Requires: roscpp rospy std_msgs message_runtime

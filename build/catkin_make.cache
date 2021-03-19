@@ -1,0 +1,2 @@
+beginner_tutorials_tan
+-DCATKIN_DEVEL_PREFIX=/home/tanmay/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tanmay/catkin_ws/install -G Unix Makefiles
